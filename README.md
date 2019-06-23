@@ -1,1 +1,2 @@
-# TOHacks19
+TO Hacks - Ryerson University - 2019
+
